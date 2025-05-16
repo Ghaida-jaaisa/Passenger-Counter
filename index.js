@@ -1,4 +1,10 @@
+let count = 0;
+let countEl = document.getElementById("count-el");
 function increment() {
-    // alert("Incremented!");
-    console.log("Incremented!");
+  count++;
+  countEl.innerText = count;
+}
+
+function save() {
+
 }
