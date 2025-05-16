@@ -52,6 +52,11 @@ h2 {
     color: white;
 }
 
+p {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
 button {
     border: none;
     padding-top: 10px;
